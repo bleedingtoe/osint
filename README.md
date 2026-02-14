@@ -1,8 +1,4 @@
-Remember to update wordlist/add more common password. https://github.com/danielmiessler/SecLists/tree/master/Passwords
-
-## Still in development may have bugs. Working on pswd stealer. Dual hookers suck :(
-
-
+## V2.5
 Penetration Testing Framework v2.5
                                 ★
                                ║█║
