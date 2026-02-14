@@ -1,0 +1,294 @@
+{
+    "Social": [
+        {
+            "site": "GitHub",
+            "url": "github.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "GitLab",
+            "url": "gitlab.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "Bitbucket",
+            "url": "bitbucket.org/{}",
+            "err": "404"
+        },
+        {
+            "site": "Codeberg",
+            "url": "codeberg.org/{}",
+            "err": "404"
+        },
+        {
+            "site": "SourceForge",
+            "url": "sourceforge.net/u/{}",
+            "err": "404"
+        },
+        {
+            "site": "Hugging Face",
+            "url": "huggingface.co/{}",
+            "err": "404"
+        },
+        {
+            "site": "Kaggle",
+            "url": "kaggle.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "Stack Overflow",
+            "url": "stackoverflow.com/users/{}",
+            "err": "404"
+        },
+        {
+            "site": "DEV Community",
+            "url": "dev.to/{}",
+            "err": "404"
+        },
+        {
+            "site": "Medium",
+            "url": "medium.com/@{}",
+            "err": "404"
+        },
+        {
+            "site": "Hashnode",
+            "url": "hashnode.com/@{}",
+            "err": "404"
+        },
+        {
+            "site": "Replit",
+            "url": "replit.com/@{}",
+            "err": "404"
+        },
+        {
+            "site": "Reddit",
+            "url": "reddit.com/user/{}",
+            "err": "user not found"
+        },
+        {
+            "site": "X (Twitter)",
+            "url": "x.com/{}",
+            "err": "This account doesn’t exist"
+        },
+        {
+            "site": "Instagram",
+            "url": "instagram.com/{}",
+            "err": "Page Not Found"
+        },
+        {
+            "site": "Facebook",
+            "url": "facebook.com/{}",
+            "err": "This content isn't available right now"
+        },
+        {
+            "site": "Threads",
+            "url": "threads.net/@{}",
+            "err": "Sorry, this page isn't available"
+        },
+        {
+            "site": "TikTok",
+            "url": "tiktok.com/@{}",
+            "err": "Couldn't find this account"
+        },
+        {
+            "site": "Snapchat",
+            "url": "snapchat.com/add/{}",
+            "err": "Sorry, we can't find"
+        },
+        {
+            "site": "Pinterest",
+            "url": "pinterest.com/{}",
+            "err": "Sorry! We couldn't find that page"
+        },
+        {
+            "site": "Tumblr",
+            "url": "{}.tumblr.com",
+            "err": "Nothing here"
+        },
+        {
+            "site": "Blogger",
+            "url": "{}.blogspot.com",
+            "err": "Sorry, the blog at"
+        },
+        {
+            "site": "WordPress",
+            "url": "{}.wordpress.com",
+            "err": "Do you want to register"
+        },
+        {
+            "site": "Badoo",
+            "url": "badoo.com/profile/{}",
+            "err": "404"
+        },
+        {
+            "site": "VK",
+            "url": "vk.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "OK.ru",
+            "url": "ok.ru/{}",
+            "err": "404"
+        },
+        {
+            "site": "Weibo",
+            "url": "weibo.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "LinkedIn",
+            "url": "linkedin.com/in/{}",
+            "err": "Profile Not Found"
+        },
+        {
+            "site": "About.me",
+            "url": "about.me/{}",
+            "err": "404"
+        },
+        {
+            "site": "Linktree",
+            "url": "linktr.ee/{}",
+            "err": "404"
+        },
+        {
+            "site": "Carrd",
+            "url": "{}.carrd.co",
+            "err": "404"
+        },
+        {
+            "site": "Gravatar",
+            "url": "gravatar.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "Keybase",
+            "url": "keybase.io/{}",
+            "err": "404"
+        },
+        {
+            "site": "YouTube",
+            "url": "youtube.com/@{}",
+            "err": "404"
+        },
+        {
+            "site": "Twitch",
+            "url": "twitch.tv/{}",
+            "err": "Sorry. Unless you’ve got a time machine"
+        },
+        {
+            "site": "Kick",
+            "url": "kick.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "Vimeo",
+            "url": "vimeo.com/{}",
+            "err": "Sorry, we couldn’t find that page"
+        },
+        {
+            "site": "Dailymotion",
+            "url": "dailymotion.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "SoundCloud",
+            "url": "soundcloud.com/{}",
+            "err": "We can’t find that user"
+        },
+        {
+            "site": "Bandcamp",
+            "url": "{}.bandcamp.com",
+            "err": "404"
+        },
+        {
+            "site": "Spotify (user)",
+            "url": "open.spotify.com/user/{}",
+            "err": "404"
+        },
+        {
+            "site": "Steam (custom id)",
+            "url": "steamcommunity.com/id/{}",
+            "err": "The specified profile could not be found"
+        },
+        {
+            "site": "Steam (numeric)",
+            "url": "steamcommunity.com/profiles/{}",
+            "err": "The specified profile could not be found"
+        },
+        {
+            "site": "Epic Games",
+            "url": "store.epicgames.com/u/{}",
+            "err": "404"
+        },
+        {
+            "site": "Chess.com",
+            "url": "chess.com/member/{}",
+            "err": "404"
+        },
+        {
+            "site": "Lichess",
+            "url": "lichess.org/@/{}",
+            "err": "404"
+        },
+        {
+            "site": "Dribbble",
+            "url": "dribbble.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "Behance",
+            "url": "behance.net/{}",
+            "err": "404"
+        },
+        {
+            "site": "ArtStation",
+            "url": "artstation.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "DeviantArt",
+            "url": "deviantart.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "Flickr",
+            "url": "flickr.com/people/{}",
+            "err": "Not Found"
+        },
+        {
+            "site": "Telegram",
+            "url": "t.me/{}",
+            "err": "If you have Telegram, you can contact"
+        },
+        {
+            "site": "Discord (vanity)",
+            "url": "discord.com/users/{}",
+            "err": "404"
+        },
+        {
+            "site": "Mastodon (mastodon.social)",
+            "url": "mastodon.social/@{}",
+            "err": "404"
+        },
+        {
+            "site": "Bluesky",
+            "url": "bsky.app/profile/{}.bsky.social",
+            "err": "Not found"
+        },
+        {
+            "site": "Goodreads",
+            "url": "goodreads.com/user/show/{}",
+            "err": "404"
+        },
+        {
+            "site": "Letterboxd",
+            "url": "letterboxd.com/{}",
+            "err": "404"
+        },
+        {
+            "site": "IMDb",
+            "url": "imdb.com/user/{}",
+            "err": "404"
+        }
+    ]
+}
