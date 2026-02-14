@@ -1,11 +1,13 @@
 ##                                                                                   V2.5
-Penetration Testing Framework v2.5
-                                ★
-                               ║█║
-                              ╱   ╲
-                             ║ ☠ ☠ ║
-                            ╱  ▼ ▼  ╲
-                           ║   ███   ║
+
+⚠️Remember to update wordlist/add more common passwords. https://github.com/danielmiessler/SecLists/tree/master/Passwords⚠️
+##
+🎯Plans for the next version :
+Credential stealer
+Cookie logger
+API for breach searches
+Option to create a py file for IP stealing via discord webhook
+##
 A toolkit for authorized security research and penetration testing.
 
 ⚠️ Legal Notice
